@@ -1,1 +1,1 @@
-# Bootstrap2
+# Fully responsive bootstrap project
